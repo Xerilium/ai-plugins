@@ -1,0 +1,43 @@
+{
+  "name": "xerilium",
+  "owner": {
+    "name": "Xerilium",
+    "email": "hello@xerilium.com",
+    "url": "https://github.com/xerilium"
+  },
+  "description": "Xerilium plugins for AI coding agents",
+  "plugins": [
+    {
+      "name": "catalyst",
+      "displayName": "Catalyst",
+      "description": "Catalyst AI is an execution framework for building scalable apps.",
+      "author": {
+        "name": "Xerilium",
+        "email": "hello@xerilium.com"
+      },
+      "homepage": "https://github.com/xerilium/catalyst#readme",
+      "repository": "https://github.com/xerilium/catalyst",
+      "license": "Apache-2.0",
+      "keywords": [
+        "agent",
+        "agentic",
+        "ai",
+        "automation",
+        "catalyst",
+        "foundry",
+        "framework",
+        "fx",
+        "multiagent",
+        "plugin",
+        "skills",
+        "xe",
+        "xerilium"
+      ],
+      "source": {
+        "source": "npm",
+        "package": "@xerilium/catalyst"
+      },
+      "category": "development"
+    }
+  ]
+}
