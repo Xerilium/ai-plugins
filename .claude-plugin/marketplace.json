@@ -35,7 +35,7 @@
       ],
       "source": {
         "source": "npm",
-        "package": "@xerilium/catalyst"
+        "package": "@xerilium/catalyst-plugin"
       },
       "category": "development"
     }
