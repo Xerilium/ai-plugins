@@ -35,7 +35,8 @@
       ],
       "source": {
         "source": "npm",
-        "package": "@xerilium/catalyst"
+        "package": "@xerilium/catalyst",
+        "version": "0.3.3"
       },
       "category": "development"
     }
